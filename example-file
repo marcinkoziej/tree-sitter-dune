@@ -1,0 +1,12 @@
+(subdir
+ node_modules
+ (dirs rescript-react-native)
+ (vendored_dirs rescript-react-native)
+ (subdir
+  rescript-react-native/src
+  (include_subdirs unqualified)
+  (library
+   (name rescript-react-native)
+   (wrapped false)
+   (modes melange))))
+
