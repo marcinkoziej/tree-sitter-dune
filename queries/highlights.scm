@@ -1,0 +1,2 @@
+(configuration) @label
+(atom) @property
