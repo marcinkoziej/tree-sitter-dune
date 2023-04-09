@@ -1,1 +1,3 @@
-(atom) @property
+(atom) @variable
+[ "(" ")" ] @punctuation.bracket
+
